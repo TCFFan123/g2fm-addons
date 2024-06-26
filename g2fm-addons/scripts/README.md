@@ -5,4 +5,4 @@ Star if you like it!
 
 Scripts section.
 
-Themes are stored in a folder with the name of the script.
+Scripts are stored in a folder with the name of the script.
