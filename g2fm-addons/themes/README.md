@@ -11,4 +11,4 @@ These MUST contain fm.txt, info.txt, the dock folder, and the hwinfo folder.
 
 Note that these aren't the only files that you can put in your theme, you just need to have these files for the theme so G2FM can find them.
 
-You may add regular theme files, obviously.
+You may add the usual theme files as well.
