@@ -11,6 +11,6 @@ Or:
 
 Pick a category to jump to:
 
-[Scripts](https://github.com/TCFFan123/g2fm-addons/g2fm-addons/scripts)
+[Scripts](https://github.com/TCFFan123/g2fm-addons/tree/main/g2fm-addons/scripts)
 
-[Themes](https://github.com/TCFFan123/g2fm-addons/g2fm-addons/themes)
+[Themes](https://github.com/TCFFan123/g2fm-addons/tree/main/g2fm-addons/themes)
