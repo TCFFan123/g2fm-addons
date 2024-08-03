@@ -12,3 +12,9 @@ These MUST contain fm.txt, info.txt, the dock folder, and the hwinfo folder.
 Note that these aren't the only files that you can put in your theme, you just need to have these files for the theme so G2FM can find them.
 
 You may add the usual theme files as well.
+
+Downloaded themes will need to be downloaded to a read AND write device with the /boot/grubfm/themes directory. 
+
+To select a theme, press F4, navigate to "Theme (H)", and select it.
+
+Then pick the option with the theme name you want to load.
